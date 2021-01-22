@@ -1,0 +1,121 @@
+*{
+    margin:0;
+    padding:0;
+    list-style:none;
+    text-decoration:none;
+}
+.header{
+width:100vw;
+height:6vw;
+display:block;
+background-color:black;
+}
+.inner_header{
+width:70vw;
+height:6vw;
+display:block;
+margin:0 auto;
+background-color:rgb(190, 1, 1);
+}
+.logo_container{
+height:6vw;
+display:table;
+float:left;
+}
+.logo_container h1{
+    color:white;
+    height:6vw;
+    display:table-cell;
+    vertical-align: middle;
+    font-size:3vw;
+    font-weight: 200;
+}
+.logo_container h1 span{
+    font-weight: 800;
+
+}
+.navigation{
+    float:right;
+    height:6vw;
+
+}
+.navigation a{
+    float:left;
+    height:6vw;
+    padding:0px 20px;
+    display:table;
+}
+.navigation a:last-child{
+     margin-right: 0px;
+}
+.navigation a li{
+    display:table-cell;
+    vertical-align: middle;
+    height:6vw;
+    color:white;
+    font-size: 20px;
+}
+.logo{
+    margin-top:3.5px;
+    height: 5.75vw;
+    width: 5.75vw;
+}
+body  {
+    background-image: url("");
+}
+#parent_div_1, #parent_div_2,#parent_div_3,#parent_div_4,#parent_div_5,#parent_div_6,#parent_div_7,#parent_div_8{
+    width:20vw;
+    height:15vw;
+    /* background-color: aqua; */
+    margin-right:1vw;
+    float:left;
+}
+.child_div_1{
+    float:left;
+    margin-right:5px;
+    margin-left:5px;
+}
+.general{
+    float:left;
+    margin:3vw;
+    padding:0px;
+}
+.div_h1{
+    margin:0.5vw;
+    margin-top: 0.5vw;
+}
+.fort{
+    margin:0vw;
+    padding:0vw;
+    float:left;
+    width:20vw;
+    height:15vw;
+    
+}
+.lol{
+    margin:1vw;
+    margin-top: 0vw;
+    padding:0vw;
+    float:left;
+    width:20vw;
+    height:16vw;
+    
+}
+.csgo{
+    margin:0vw;
+    padding:0vw;
+    float:left;
+    width:20vw;
+    height:15vw;
+    
+}
+.minecraft{
+    margin:0vw;
+    padding:0vw;
+    float:left;
+    width:20vw;
+    height:15vw;
+    
+}
+
+
